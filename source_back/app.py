@@ -13,7 +13,7 @@ if __name__ == '__main__':
 #     print(f"test cron job running at {timestamp}")
 
 
-pycron.start()
+# pycron.start()
 
 
    

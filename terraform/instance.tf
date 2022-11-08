@@ -11,6 +11,6 @@ resource "aws_instance" "main" {
   })
 
   tags = {
-    Name = "Ansible-main"
+    Name = "TwitterTimeline-main"
   }
 }
